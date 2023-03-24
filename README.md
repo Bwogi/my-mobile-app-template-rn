@@ -3,3 +3,7 @@
 ## my-mobile-app-template-rn
 
 ~/RealSystems/papareact/nxtdate
+
+
+use context API and not Redux
+> search expo-google-app-auth
